@@ -1,0 +1,26 @@
+ip: 192.168.10.10
+memory: 2048
+cpus: 2
+provider: virtualbox
+authorize: ~/.ssh/id_rsa.pub
+keys:
+    - ~/.ssh/id_rsa
+folders:
+    -
+        map: www
+        to: /home/vagrant/www
+sites:
+    -
+        map: localhost
+        to: /home/vagrant/www/public
+databases:
+    - homestead
+features:
+    -
+        mariadb: false
+    -
+        ohmyzsh: false
+    -
+        webdriver: false
+name: exo-blade
+hostname: exo-blade

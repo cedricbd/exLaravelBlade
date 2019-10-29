@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/www":{"type":null,"mount_options":["uid=1000","gid=1000"],"guestpath":"/home/vagrant/www","hostpath":"/home/beonperf/Bureau/exo-blade/www","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/beonperf/Bureau/exo-blade","disabled":false,"__vagrantfile":true}}}
