@@ -5,7 +5,6 @@
 @section('titleContent')
   Welcome
 @endsection
-
 @section('col1')
   Lorem ipsum dolr sit amet consectetur adipisicing elit. Tempora voluptatibus qui iure a, velit facilis error voluptas aliquam laboriosam. 
   Distinctio, porro. Officia aliquam sapiente illum est nihil aut voluptate numquam? Lorem ipsum dolor sit amet consectetur adipisicing elit. 
