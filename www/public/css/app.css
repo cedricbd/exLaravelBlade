@@ -8,3 +8,7 @@
   src: url(/fonts/NewBaskerville-Roman.otf?4afff8102062f6322ab6d5c937152717) format("opentype");
 }
 
+#section {
+  font-family: Gill;
+}
+

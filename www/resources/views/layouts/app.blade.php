@@ -6,11 +6,13 @@
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css">
         <link rel="stylesheet" href="css/app.css">
-        <title>@yield('titlePage')</title>
+        <title>@yield('pageTitle')</title>
 </head>
 <body>
   @include('partials.navbar')
-  <div class="container">
+  
+  <div id="section" class="container">
+    <h2 class="text-center pt-4">@yield('pageTitle')</h2>
     <div class="row pt-4">
       <div class="col-6">@yield('content')</div>
       <div class="col-6">@yield('content')</div>
