@@ -6,13 +6,13 @@
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link" href="/blog">blog</a>
+              <a class="nav-link" href="#">blog</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/about">about</a>
+              <a class="nav-link" href="#">about</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/contact">contact</a>
+              <a class="nav-link" href="#">contact</a>
             </li>
           </ul>
         </div>

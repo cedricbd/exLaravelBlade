@@ -12,9 +12,7 @@
 */
 
  Route::get('/', function () {
-    return view('index');
+    return view('home');
  });
 
-Route::get('/blog', 'BlogController@index');
-Route::get('/about', 'AboutController@index');
-Route::get('/contact', 'ContactController@index');
+
