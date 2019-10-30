@@ -23,16 +23,16 @@
               <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Features</a>
+              <a class="nav-link" href="#">blog</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Pricing</a>
+              <a class="nav-link" href="#">about</a>
             </li>
           </ul>
         </div>
       </nav>
 
-    <div id="section" class="container">
+    <div id="section" class="container pt-4">
         <div class="row">
             <div class="col-lg-6 col-sm-12">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora voluptatibus qui iure a, velit facilis error voluptas aliquam laboriosam. Distinctio, porro. Officia aliquam sapiente illum est nihil aut voluptate numquam?</div>
             <div class="col-lg-6 col-sm-12">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias modi, recusandae animi necessitatibus ipsa perspiciatis! Libero sunt sit at totam quos quisquam, a, odio impedit, cupiditate repudiandae veniam culpa fugiat.</div>
@@ -40,8 +40,8 @@
     </div>
 
     <div id="footer">
-        <div class="container">
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint in, ab odit obcaecati dolorum blanditiis necessitatibus pariatur. Molestias rem quod magni aspernatur recusandae illo facilis sint, quisquam laborum, at mollitia.</p>
+        <div class="container pt-4">
+            <p>© 2018 Gandalf</p>
         </div>
     </div>
 
