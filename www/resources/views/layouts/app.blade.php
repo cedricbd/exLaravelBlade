@@ -10,7 +10,21 @@
 </head>
 <body>
   @include('partials.navbar')
-  @yield('content')
-  @include('partials.footer') 
+  <div class="container">
+    <div class="row pt-4">
+      <div class="col-6">@yield('content')</div>
+      <div class="col-6">@yield('content')</div>
+    </div>
+  </div>
+  
+  <div id="footer">
+    <div class="container text-center py-4">
+      @include('partials.footer')
+    </div>
+  
+  </div>
+  <script src="lib/jquery/dist/jquery.slim.min.js"></script>
+  <script src="lib/popper.js/dist/umd/popper.min.js"></script>
+  <script src="lib/bootstrap/dist/js/bootstrap.min.js"></script>
 </body>
 </html>
